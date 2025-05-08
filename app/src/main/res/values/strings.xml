@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratorio-1</string>
+    <string name="button">Imprimir</string>
+    <string name="hola">Hola</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="desc_boton_imagen">Botón de imagen</string>
+    <string name="buttonSalir">SALIR</string>
+
+</resources>
